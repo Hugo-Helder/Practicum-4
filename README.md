@@ -1,5 +1,5 @@
 # Repository voor practicum 4
-Zie [canvas](https://canvas.hu.nl/courses/20219/assignments/131849?module_item_id=522254) voor de opdracht.
+Zie [canvas](https://canvas.hu.nl/courses/26958/assignments/186728) voor de opdracht.
 
 In practicum 4 kunnen er tests gedraait worden.
 
